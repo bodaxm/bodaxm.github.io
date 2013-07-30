@@ -12,7 +12,7 @@ body {
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 90%;
+  width: 96%;
   margin: 0 auto;
 }
 
@@ -80,6 +80,10 @@ header h2 {
   -webkit-font-smoothing: antialiased;
 }
 section img {
+  max-width: 100%;
+}
+
+img {
   max-width: 100%;
 }
 
