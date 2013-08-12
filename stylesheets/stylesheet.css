@@ -6,12 +6,12 @@ body {
   width: 98%;
   margin-left: auto ;
   margin-right: auto ;
-  margin-top: 30px;
-  text-align: center ;
+  margin-top: 30px ;
 }
 
-img {
+.container img {
   max-width: 100% ;
   margin-left: auto ;
   margin-right: auto ;
+  display: block;
 }
