@@ -1,7 +1,8 @@
 @font-face
 {
  font-family: 'miFont';
- src: url('cp.ttf');
+ src: url('fonts/cp.ttf') format('truetype'), 
+ url('fonts/cp.svg') format('svg'); 
 } 
 
 
@@ -11,7 +12,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: 'miFont';
+  font-family: 'miFont', monaco;
   color: #FFD119;
 }
 
