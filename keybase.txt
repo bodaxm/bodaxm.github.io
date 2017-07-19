@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/xguitian
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://boda.guitianmontero.com
+  * I am xguitian (https://keybase.io/xguitian) on keybase.
+  * I have a public key ASCLzAxNyUwVExRO2BSdOydkIwlvR69do_mQD1_KfFm4yQo
+
+To do so, I am signing this object:
+
+{
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;01208bcc0c4dc94c1513144ed8149d3b276423096f47af5da3f9900f5fca7c59b8c90a&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;kid&quot;: &quot;01208bcc0c4dc94c1513144ed8149d3b276423096f47af5da3f9900f5fca7c59b8c90a&quot;,
+            &quot;uid&quot;: &quot;820b258e34ad21bedb20ceacfabbe419&quot;,
+            &quot;username&quot;: &quot;xguitian&quot;
+        },
+        &quot;merkle_root&quot;: {
+            &quot;ctime&quot;: 1500463838,
+            &quot;hash&quot;: &quot;6f72b4548212b306965fbc5e0581208898e5ebfd571a2b55524d4a119c98b822f2b8ff38ce06a0b1898d76c9c519ffaa39aab181edef9cee6fb1cdbead303172&quot;,
+            &quot;hash_meta&quot;: &quot;ad84644c6711068ac8cc40b9458eac279824e2babc821889e9dd99e20ebb6678&quot;,
+            &quot;seqno&quot;: 1262024
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;boda.guitianmontero.com&quot;,
+            &quot;protocol&quot;: &quot;http:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
+    },
+    &quot;client&quot;: {
+        &quot;name&quot;: &quot;keybase.io go client&quot;,
+        &quot;version&quot;: &quot;1.0.25&quot;
+    },
+    &quot;ctime&quot;: 1500463895,
+    &quot;expire_in&quot;: 504576000,
+    &quot;prev&quot;: &quot;667853bea07f07377c7a7866b19ffa3e8402631f25a01a6d2998022636356b78&quot;,
+    &quot;seqno&quot;: 13,
+    &quot;tag&quot;: &quot;signature&quot;
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgi8wMTclMFRMUTtgUnTsnZCMJb0evXaP5kA9fynxZuMkKp3BheWxvYWTFA097ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGJjYzBjNGRjOTRjMTUxMzE0NGVkODE0OWQzYjI3NjQyMzA5NmY0N2FmNWRhM2Y5OTAwZjVmY2E3YzU5YjhjOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGJjYzBjNGRjOTRjMTUxMzE0NGVkODE0OWQzYjI3NjQyMzA5NmY0N2FmNWRhM2Y5OTAwZjVmY2E3YzU5YjhjOTBhIiwidWlkIjoiODIwYjI1OGUzNGFkMjFiZWRiMjBjZWFjZmFiYmU0MTkiLCJ1c2VybmFtZSI6InhndWl0aWFuIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTAwNDYzODM4LCJoYXNoIjoiNmY3MmI0NTQ4MjEyYjMwNjk2NWZiYzVlMDU4MTIwODg5OGU1ZWJmZDU3MWEyYjU1NTI0ZDRhMTE5Yzk4YjgyMmYyYjhmZjM4Y2UwNmEwYjE4OThkNzZjOWM1MTlmZmFhMzlhYWIxODFlZGVmOWNlZTZmYjFjZGJlYWQzMDMxNzIiLCJoYXNoX21ldGEiOiJhZDg0NjQ0YzY3MTEwNjhhYzhjYzQwYjk0NThlYWMyNzk4MjRlMmJhYmM4MjE4ODllOWRkOTllMjBlYmI2Njc4Iiwic2Vxbm8iOjEyNjIwMjR9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYm9kYS5ndWl0aWFubW9udGVyby5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI1In0sImN0aW1lIjoxNTAwNDYzODk1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjY2Nzg1M2JlYTA3ZjA3Mzc3YzdhNzg2NmIxOWZmYTNlODQwMjYzMWYyNWEwMWE2ZDI5OTgwMjI2MzYzNTZiNzgiLCJzZXFubyI6MTMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAZxpL8ZCDTQybEu/xiZrajQBnxvM4QYz9XKOcIQ9iYyOFDuGdNXAVx9MZsdE0wKosK1fvgVVxpGyPUWA2VDI1DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE9nbzbF4xzCnITAI4VBL0z/NJaxBXaKtbHOMLHlng5co3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xguitian
+
+==================================================================
