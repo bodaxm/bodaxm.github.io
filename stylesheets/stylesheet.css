@@ -1,8 +1,8 @@
 @font-face
 {
  font-family: 'miFont';
- src: url('fonts/cp.ttf') format('truetype'), 
- url('fonts/cp.svg') format('svg'); 
+ src: url('../fonts/cp.ttf') format('truetype'), 
+ url('../fonts/cp.svg') format('svg'); 
 } 
 
 
