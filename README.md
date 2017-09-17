@@ -12,4 +12,4 @@ Confirmar asistencia antes del 1 de Octubre.
 
 Xabi y María .2013
 
-[boda.guitianmontero.com](http://boda.guitianmontero.com)
+[boda.guitianmontero.com](https://boda.guitianmontero.com)
